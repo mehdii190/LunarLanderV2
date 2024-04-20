@@ -13,4 +13,4 @@ Landing pad is always at coordinates `(0,0)`. Coordinates are the first two numb
 
 Episode 1|Episode 700|Episode 800|
 :-------------------------:|:---------:|:-------:
-<img src="LunarLanderV2/Images/episode-0.gif" width = 250px>|  <img src="LunarLanderV2/Images/episode-700.gif" width = 250px>|<img src="LunarLanderV2/Images/episode-800.gif" width = 250px>|
+<img src="LunarLanderV2/Images/episode-0.gif?raw=true" width = 250px>|  <img src="LunarLanderV2/Images/episode-700.gif?raw=true" width = 250px>|<img src="LunarLanderV2/Images/episode-800.gif?raw=true" width = 250px>|
