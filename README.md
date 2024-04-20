@@ -11,8 +11,11 @@ Landing pad is always at coordinates `(0,0)`. Coordinates are the first two numb
 
 ### Results
 
-Episode 1|Episode 700|Episode 800|
-:-------------------------:|:---------:|:-------:
+Episode 1 
 ![alt text](https://github.com/mehdii190/LunarLanderV2/blob/main/Images/episode-0.gif)|
+Episode 700
 ![alt text](https://github.com/mehdii190/LunarLanderV2/blob/main/Images/episode-700.gif)|
+Episode 800
 ![alt text](https://github.com/mehdii190/LunarLanderV2/blob/main/Images/episode-800.gif)
+|
+
